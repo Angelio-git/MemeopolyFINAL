@@ -9,7 +9,7 @@ function App() {
         <div className="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-center">
           <div className="w-32 h-32 md:w-48 md:h-48 relative mb-4 md:mb-0">
             <img 
-              src="/Assets/photo_2025-04-03_06-55-14.jpg" 
+              src="https://raw.githubusercontent.com/Angelio-git/Memeopoly_V3/main/Assets/hoto_2025-04-03_06-55-14.jpg" 
               alt="Memeopoly Logo" 
               className="w-full h-full object-contain"
             />
@@ -43,12 +43,12 @@ function App() {
             </h2>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4 md:gap-6">
               {[
-                { title: "We Pass GO Every 300 Holders", desc: "Community growth = motion. Every 300 new holders? Everyone moves forward. Volume cures everything.", image: "/NewAssets/1dolla.jpg" },
-                { title: "Supply Burns Every Lap", desc: "Make it around the board? Burn a chunk. Scarcity is the new rent.", image: "/NewAssets/5dolla.jpg" },
-                { title: "Paper Hands Pay Double Rent", desc: "Sell before the ATH? Pay the diamond hands tax.", image: "/NewAssets/10dolla.jpg" },
-                { title: "No Crying in the Casino", desc: "Wrecked? Good. Learn. Roll again.", image: "/NewAssets/20DolarsFR.png" },
-                { title: "If You Shill It, You Fill It", desc: "Bag pumpers must buy the top too.", image: "/NewAssets/ShadowDolla.png" },
-                { title: "Jeet Jail = Rugged", desc: "Landed in jail? You trusted a dev with hair and no LinkedIn.", image: "/NewAssets/mitchdolla.png" }
+                { title: "We Pass GO Every 300 Holders", desc: "Community growth = motion. Every 300 new holders? Everyone moves forward. Volume cures everything.", image: "https://raw.githubusercontent.com/Angelio-git/Memeopoly_V3/main/NewAssets/1dolla.jpg" },
+                { title: "Supply Burns Every Lap", desc: "Make it around the board? Burn a chunk. Scarcity is the new rent.", image: "https://raw.githubusercontent.com/Angelio-git/Memeopoly_V3/main/NewAssets/5dolla.jpg" },
+                { title: "Paper Hands Pay Double Rent", desc: "Sell before the ATH? Pay the diamond hands tax.", image: "https://raw.githubusercontent.com/Angelio-git/Memeopoly_V3/main/NewAssets/10dolla.jpg" },
+                { title: "No Crying in the Casino", desc: "Wrecked? Good. Learn. Roll again.", image: "https://raw.githubusercontent.com/Angelio-git/Memeopoly_V3/main/NewAssets/20DolarsFR.png" },
+                { title: "If You Shill It, You Fill It", desc: "Bag pumpers must buy the top too.", image: "https://raw.githubusercontent.com/Angelio-git/Memeopoly_V3/main/NewAssets/ShadowDolla.png" },
+                { title: "Jeet Jail = Rugged", desc: "Landed in jail? You trusted a dev with hair and no LinkedIn.", image: "https://raw.githubusercontent.com/Angelio-git/Memeopoly_V3/main/NewAssets/mitchdolla.png" }
               ].map((rule, index) => (
                 <div key={index} className="monopoly-property">
                   <div className="dollar-bill-container">
@@ -68,7 +68,7 @@ function App() {
         <div className="max-w-7xl mx-auto px-4">
           <div className="board-container">
             <img 
-              src="/NewAssets/Memeopoly Board.png" 
+              src="https://raw.githubusercontent.com/Angelio-git/Memeopoly_V3/main/NewAssets/Memeopoly Board.png" 
               alt="Memeopoly Board" 
               className="w-full h-auto object-contain rounded-lg shadow-2xl border-4 border-[#FFD700]"
             />
