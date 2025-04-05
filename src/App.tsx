@@ -9,7 +9,7 @@ function App() {
         <div className="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-center">
           <div className="w-32 h-32 md:w-48 md:h-48 relative mb-4 md:mb-0">
             <img 
-              src="https://raw.githubusercontent.com/Angelio-git/Memeopoly_V3/main/Assets/hoto_2025-04-03_06-55-14.jpg" 
+              src="https://raw.githubusercontent.com/Angelio-git/Memeopoly_V3/main/Assets/photo_2025-04-03_06-55-14.jpg" 
               alt="Memeopoly Logo" 
               className="w-full h-full object-contain"
             />
