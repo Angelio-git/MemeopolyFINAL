@@ -79,7 +79,7 @@ function App() {
       {/* Footer */}
       <footer className="bg-[#C41E3A] text-white py-6 md:py-8">
         <div className="max-w-7xl mx-auto px-4 text-center">
-          <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" 
+          <a href="https://x.com/i/communities/1908632213215994073" target="_blank" rel="noopener noreferrer" 
              className="inline-flex items-center text-white hover:text-gray-200 transition-colors">
             <Twitter className="w-5 h-5 md:w-6 md:h-6 mr-2" />
             Join our X Community
