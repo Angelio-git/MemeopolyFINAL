@@ -17,8 +17,17 @@ function App() {
           <div className="flex gap-3 md:gap-6">
             <button className="nav-button text-sm md:text-base"><Book className="w-4 h-4 md:w-5 md:h-5 mr-1 md:mr-2" />Rules</button>
             <button className="nav-button text-sm md:text-base"><ImageIcon className="w-4 h-4 md:w-5 md:h-5 mr-1 md:mr-2" />Gallery</button>
-            <button className="nav-button text-sm md:text-base"><Twitter className="w-4 h-4 md:w-5 md:h-5 mr-1 md:mr-2" />Community</button>     
-          </div>
+            </button>
+  <a
+    href="https://x.com/i/communities/1908632213215994073"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="nav-button text-sm md:text-base inline-flex items-center"
+  >
+    <Twitter className="w-4 h-4 md:w-5 md:h-5 mr-1 md:mr-2" />
+    Community
+  </a>
+</div>
         </div>
       </nav>
 
